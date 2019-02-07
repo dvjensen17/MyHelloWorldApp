@@ -1,0 +1,19 @@
+{
+  "name": "myhelloworldapp",
+  "version": "1.0.0",
+  "description": "First App",
+  "main": "app.js",
+  "scripts": {
+    "test": "testMeNow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvjensen17/MyHelloWorldApp.git"
+  },
+  "author": "David Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvjensen17/MyHelloWorldApp/issues"
+  },
+  "homepage": "https://github.com/dvjensen17/MyHelloWorldApp#readme"
+}
